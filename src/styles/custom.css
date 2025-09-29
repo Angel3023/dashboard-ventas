@@ -1,0 +1,9 @@
+/* styles/custom.css */
+.form-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+}
+.form-grid-full {
+  grid-column: span 2;
+}
